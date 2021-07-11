@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="README.assets/KakaoTalk_20210709_213624807.jpg" width="750" height="400">
+<center><img src="README.assets/KakaoTalk_20210709_213624807.jpg" width="750" height="400"></center>
 
 
 
@@ -16,7 +16,9 @@
 
 <br>
 
-<img src="README.assets/KakaoTalk_20210709_213624807_01.jpg" width="750" height="400">
+<br>
+
+<center><img src="README.assets/KakaoTalk_20210709_213624807_01.jpg" width="750" height="400"></center>
 
 
 
@@ -28,7 +30,9 @@
 
 <br>
 
-<img src="README.assets/KakaoTalk_20210709_213624807_02.jpg" width="750" height="400">
+<br>
+
+<center><img src="README.assets/KakaoTalk_20210709_213624807_02.jpg" width="750" height="400"></center>
 
 
 
