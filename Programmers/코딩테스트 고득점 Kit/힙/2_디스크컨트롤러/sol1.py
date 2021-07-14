@@ -1,3 +1,5 @@
+# 오답
+
 def solution(jobs):
     N = len(jobs)
     jobs.sort(key=lambda x: x[1])
